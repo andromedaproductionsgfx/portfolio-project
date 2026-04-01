@@ -19,4 +19,5 @@ A web-based Point of Sale (POS) system designed for cafes and restaurants.
 
 ## Purpose
 This project demonstrates a complete front-end POS system with real-world business use case.
+
 Last updated: 2026
